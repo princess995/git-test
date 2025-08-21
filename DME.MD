@@ -57,7 +57,7 @@ git merge test-login
 git add login.html
 git commit -m "resolve merge conflict in login.html"
 ```
-
+cl
 ## 원격 저장소 연결 및 푸시
 
 ```bash
